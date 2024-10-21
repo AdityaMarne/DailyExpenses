@@ -7,7 +7,7 @@ convinenv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-### Runsserver by following command
+### Runs server by following command
 ```
 py manage.py runserver
 ```
